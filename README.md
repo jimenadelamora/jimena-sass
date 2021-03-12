@@ -1,4 +1,10 @@
-# Lesson to refactor CSS to SCSS
+# Sass class assignment
+
+By Jimena De la Mora
+
+The project is due on March 12, 2021.
+
+## Lesson to refactor CSS to SCSS
 
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
 
